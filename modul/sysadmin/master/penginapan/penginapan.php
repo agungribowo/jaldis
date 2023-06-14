@@ -83,48 +83,6 @@
                                           <td>A</td>
                                       </tr>
                                       <tr>
-                                          <td>Trident</td>
-                                          <td>Internet Explorer 7</td>
-                                          <td>Win XP SP2+</td>
-                                          <td>7</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Trident</td>
-                                          <td>AOL browser (AOL desktop)</td>
-                                          <td>Win XP</td>
-                                          <td>6</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Gecko</td>
-                                          <td>Firefox 1.0</td>
-                                          <td>Win 98+ / OSX.2+</td>
-                                          <td>1.7</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Gecko</td>
-                                          <td>Firefox 1.5</td>
-                                          <td>Win 98+ / OSX.2+</td>
-                                          <td>1.8</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Gecko</td>
-                                          <td>Firefox 2.0</td>
-                                          <td>Win 98+ / OSX.2+</td>
-                                          <td>1.8</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Gecko</td>
-                                          <td>Firefox 3.0</td>
-                                          <td>Win 2k+ / OSX.3+</td>
-                                          <td>1.9</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
                                           <td>Gecko</td>
                                           <td>Camino 1.0</td>
                                           <td>OSX.2+</td>

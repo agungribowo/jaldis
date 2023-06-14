@@ -245,34 +245,6 @@
                                       </tr>
                                       <tr>
                                           <td>Webkit</td>
-                                          <td>Safari 1.3</td>
-                                          <td>OSX.3</td>
-                                          <td>312.8</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Webkit</td>
-                                          <td>Safari 2.0</td>
-                                          <td>OSX.4+</td>
-                                          <td>419.3</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Webkit</td>
-                                          <td>Safari 3.0</td>
-                                          <td>OSX.4+</td>
-                                          <td>522.1</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Webkit</td>
-                                          <td>OmniWeb 5.5</td>
-                                          <td>OSX.4+</td>
-                                          <td>420</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Webkit</td>
                                           <td>iPod Touch / iPhone</td>
                                           <td>iPod</td>
                                           <td>420.1</td>
@@ -292,27 +264,7 @@
                                           <td>-</td>
                                           <td>A</td>
                                       </tr>
-                                      <tr>
-                                          <td>Presto</td>
-                                          <td>Opera for Wii</td>
-                                          <td>Wii</td>
-                                          <td>-</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Presto</td>
-                                          <td>Nokia N800</td>
-                                          <td>N800</td>
-                                          <td>-</td>
-                                          <td>A</td>
-                                      </tr>
-                                      <tr>
-                                          <td>Presto</td>
-                                          <td>Nintendo DS browser</td>
-                                          <td>Nintendo DS</td>
-                                          <td>8.5</td>
-                                          <td>C/A<sup>1</sup></td>
-                                      </tr>
+                                      
                                       <tr>
                                           <td>KHTML</td>
                                           <td>Konqureror 3.1</td>
@@ -320,7 +272,6 @@
                                           <td>3.1</td>
                                           <td>C</td>
                                       </tr>
-                                      
                                   </tbody>
                                   <tfoot>
                                       <tr>
