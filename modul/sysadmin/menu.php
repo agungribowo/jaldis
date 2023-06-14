@@ -288,4 +288,5 @@
       <!-- /.sidebar-menu -->
     </div>
     <!-- /.sidebar -->
+    <!-- berikut merupakan halaman dashboard, yang ad -->
   </aside>
